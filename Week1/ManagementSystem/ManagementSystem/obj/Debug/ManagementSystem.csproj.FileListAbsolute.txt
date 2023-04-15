@@ -1,0 +1,14 @@
+E:\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+E:\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe
+E:\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.pdb
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.AssemblyReference.cache
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.CoreCompileInputs.cache
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.exe
+E:\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.pdb
+E:\Semester2\Lab\OOP\PD\Week1\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+E:\Semester2\Lab\OOP\PD\Week1\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe
+E:\Semester2\Lab\OOP\PD\Week1\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.pdb
+E:\Semester2\Lab\OOP\PD\Week1\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.AssemblyReference.cache
+E:\Semester2\Lab\OOP\PD\Week1\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.CoreCompileInputs.cache
+E:\Semester2\Lab\OOP\PD\Week1\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.exe
+E:\Semester2\Lab\OOP\PD\Week1\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.pdb
