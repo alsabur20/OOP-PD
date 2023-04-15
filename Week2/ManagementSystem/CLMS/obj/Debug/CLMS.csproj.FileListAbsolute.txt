@@ -1,0 +1,7 @@
+E:\Week2\CLMS\CLMS\obj\Debug\CLMS.csproj.AssemblyReference.cache
+E:\Week2\CLMS\CLMS\obj\Debug\CLMS.csproj.CoreCompileInputs.cache
+E:\Week2\CLMS\CLMS\bin\Debug\CLMS.exe.config
+E:\Week2\CLMS\CLMS\bin\Debug\CLMS.exe
+E:\Week2\CLMS\CLMS\bin\Debug\CLMS.pdb
+E:\Week2\CLMS\CLMS\obj\Debug\CLMS.exe
+E:\Week2\CLMS\CLMS\obj\Debug\CLMS.pdb
