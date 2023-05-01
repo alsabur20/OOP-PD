@@ -1,0 +1,14 @@
+E:\Week2\CLMS\CLMS\obj\Debug\CLMS.csproj.AssemblyReference.cache
+E:\Week2\CLMS\CLMS\obj\Debug\CLMS.csproj.CoreCompileInputs.cache
+E:\Week2\CLMS\CLMS\bin\Debug\CLMS.exe.config
+E:\Week2\CLMS\CLMS\bin\Debug\CLMS.exe
+E:\Week2\CLMS\CLMS\bin\Debug\CLMS.pdb
+E:\Week2\CLMS\CLMS\obj\Debug\CLMS.exe
+E:\Week2\CLMS\CLMS\obj\Debug\CLMS.pdb
+E:\Semester2\OOP\PD\Week3\ManagementSystem\CLMS\bin\Debug\CLMS.exe.config
+E:\Semester2\OOP\PD\Week3\ManagementSystem\CLMS\bin\Debug\CLMS.exe
+E:\Semester2\OOP\PD\Week3\ManagementSystem\CLMS\bin\Debug\CLMS.pdb
+E:\Semester2\OOP\PD\Week3\ManagementSystem\CLMS\obj\Debug\CLMS.csproj.AssemblyReference.cache
+E:\Semester2\OOP\PD\Week3\ManagementSystem\CLMS\obj\Debug\CLMS.csproj.CoreCompileInputs.cache
+E:\Semester2\OOP\PD\Week3\ManagementSystem\CLMS\obj\Debug\CLMS.exe
+E:\Semester2\OOP\PD\Week3\ManagementSystem\CLMS\obj\Debug\CLMS.pdb
