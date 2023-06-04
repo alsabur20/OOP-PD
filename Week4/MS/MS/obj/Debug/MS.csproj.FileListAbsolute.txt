@@ -1,0 +1,7 @@
+E:\Week4\MS\MS\bin\Debug\MS.exe.config
+E:\Week4\MS\MS\bin\Debug\MS.exe
+E:\Week4\MS\MS\bin\Debug\MS.pdb
+E:\Week4\MS\MS\obj\Debug\MS.csproj.AssemblyReference.cache
+E:\Week4\MS\MS\obj\Debug\MS.csproj.CoreCompileInputs.cache
+E:\Week4\MS\MS\obj\Debug\MS.exe
+E:\Week4\MS\MS\obj\Debug\MS.pdb

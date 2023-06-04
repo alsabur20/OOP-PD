@@ -1,0 +1,7 @@
+E:\Week4\ListSorting\ListSorting\bin\Debug\ListSorting.exe.config
+E:\Week4\ListSorting\ListSorting\bin\Debug\ListSorting.exe
+E:\Week4\ListSorting\ListSorting\bin\Debug\ListSorting.pdb
+E:\Week4\ListSorting\ListSorting\obj\Debug\ListSorting.csproj.AssemblyReference.cache
+E:\Week4\ListSorting\ListSorting\obj\Debug\ListSorting.csproj.CoreCompileInputs.cache
+E:\Week4\ListSorting\ListSorting\obj\Debug\ListSorting.exe
+E:\Week4\ListSorting\ListSorting\obj\Debug\ListSorting.pdb
