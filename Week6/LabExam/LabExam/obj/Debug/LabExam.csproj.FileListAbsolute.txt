@@ -1,0 +1,7 @@
+D:\UET\Week6\LabExam\LabExam\bin\Debug\LabExam.exe.config
+D:\UET\Week6\LabExam\LabExam\bin\Debug\LabExam.exe
+D:\UET\Week6\LabExam\LabExam\bin\Debug\LabExam.pdb
+D:\UET\Week6\LabExam\LabExam\obj\Debug\LabExam.csproj.AssemblyReference.cache
+D:\UET\Week6\LabExam\LabExam\obj\Debug\LabExam.csproj.CoreCompileInputs.cache
+D:\UET\Week6\LabExam\LabExam\obj\Debug\LabExam.exe
+D:\UET\Week6\LabExam\LabExam\obj\Debug\LabExam.pdb

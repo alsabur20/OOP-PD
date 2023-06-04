@@ -1,0 +1,7 @@
+D:\UET\Week6\P1\P1\bin\Debug\P1.exe.config
+D:\UET\Week6\P1\P1\bin\Debug\P1.exe
+D:\UET\Week6\P1\P1\bin\Debug\P1.pdb
+D:\UET\Week6\P1\P1\obj\Debug\P1.csproj.AssemblyReference.cache
+D:\UET\Week6\P1\P1\obj\Debug\P1.csproj.CoreCompileInputs.cache
+D:\UET\Week6\P1\P1\obj\Debug\P1.exe
+D:\UET\Week6\P1\P1\obj\Debug\P1.pdb
